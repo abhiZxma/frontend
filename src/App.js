@@ -200,7 +200,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Abhishek Tiwari to the rescue</h1>
         <h2>Problem 1 - Solution</h2>
 
         <label for="phoneNumber">Phone Number</label>
